@@ -1,0 +1,2 @@
+lista2=[]
+lista2.append({'nome': input("digite ai : ")})

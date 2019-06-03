@@ -1,0 +1,2 @@
+nomes={'nome':'victor','idade':'22'}
+nomes['nome']=input("digite o nome para adicionar: ");
